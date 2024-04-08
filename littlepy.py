@@ -3,4 +3,12 @@
 name = input("Please enter you name")
 
 
-def main
+def main():
+    print (f" Hello {name}")
+
+if __name__ == "__main__":
+    name
+
+#end
+
+
